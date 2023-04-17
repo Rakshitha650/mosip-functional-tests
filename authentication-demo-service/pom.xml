@@ -11,18 +11,19 @@
 	<description>Mosip api testrig</description>
 	<url>https://github.com/mosip/mosip-functional-tests</url>
 	
-	<scm>
-		<connection>scm:git:git://github.com/mosip/mosip-functional-tests.git</connection>
-		<developerConnection>scm:git:ssh://github.com:mosip/mosip-functional-tests.git</developerConnection>
-		<url>https://github.com/mosip/mosip-functional-tests</url>
-		<tag>HEAD</tag>
-	</scm>
-	<licenses>
-		<license>
-			<name>MPL 2.0</name>
-			<url>https://www.mozilla.org/en-US/MPL/2.0/</url>
-		</license>
-	</licenses>
+    <licenses>
+          <license>
+                <name>MPL 2.0</name>
+                <url>https://www.mozilla.org/en-US/MPL/2.0/</url>
+          </license>
+    </licenses>
+
+    <scm>
+            <connection>scm:git:git://github.com/mosip/mosip-functional-tests</connection>
+            <developerConnection>scm:git:ssh://github.com:mosip/mosip-functional-tests</developerConnection>
+            <url>https://github.com/mosip/mosip-functional-tests</url>
+            <tag>HEAD</tag>
+    </scm> 
 	<developers>
 		<developer>
 			<name>Mosip</name>
